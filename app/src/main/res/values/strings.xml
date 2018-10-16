@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TTS Voz Ajudante</string>
+    <string name="digite">Digite seu Texto</string>
+    <string name="falar">Falar</string>
+    <string name="limpar">Limpar</string>
+    <string name="salvar">Salvar</string>
+    <string name="instalar">Instalar Idiomas</string>
+    <string name="campo_vazio">Digite seu texto para salvar</string>
+    <string name="editar">Editar</string>
+    <string name="excluir">Excluir</string>
+    <string name="sucesso">Salvo com sucesso</string>
+    <string name="detalhe">Detalhe</string>
+    <string name="texto_salvo">Textos salvos:</string>
+</resources>

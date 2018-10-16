@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="@string/falar"
+        android:id="@+id/falar"
+        android:icon="@drawable/ic_action_play"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:title="@string/limpar"
+        android:id="@+id/limpar"
+        android:icon="@drawable/ic_action_clear"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:title="@string/salvar"
+        android:id="@+id/salvar"
+        android:icon="@drawable/ic_action_save"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:title="@string/instalar"
+        android:id="@+id/idiomas"
+        android:icon="@drawable/ic_action_settings"
+        app:showAsAction="ifRoom"/>
+</menu>
